@@ -1,0 +1,101 @@
+# ===================================
+# 🖥 macOS system junk files
+# ===================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+
+# ===================================
+# 🐍 Python
+# ===================================
+
+# Bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments (conda / venv / poetry)
+env/
+.venv/
+ENV/
+env.bak/
+.venv.bak/
+.conda/
+
+# Poetry / Pipenv / dependency locks
+poetry.lock
+Pipfile.lock
+
+# Build artifacts and packaging
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# ===================================
+# 📓 Jupyter Notebook
+# ===================================
+.ipynb_checkpoints/
+
+# ===================================
+# 💾 Data and model files
+# ===================================
+*.db
+*.sqlite
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.sav
+*.rds
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.joblib
+*.npy
+*.npz
+
+# ===================================
+# 🧪 Logs, test outputs, temp files
+# ===================================
+*.log
+*.tmp
+*.bak
+*.swp
+*.pid
+
+# ===================================
+# 🧠 VS Code editor settings
+# ===================================
+.vscode/
+
+# ===================================
+# 📊 R / RStudio files
+# ===================================
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# ===================================
+# 🔐 Private / sensitive credentials
+# ===================================
+.env
+.env.*
+secrets.*
+*.key
+*.pem
+*.crt
+*.credentials
