@@ -1,22 +1,25 @@
-Midterm Project Summary (SMM635 Data Visualization)
-This project is based on the SMM635 Data Visualization midterm assignment. The main objectives are:
+# Data Visualization Midterm Project (SMM635)
 
-Data Exploration & Visualization:
-Analyze a given dataset to extract meaningful insights using appropriate data visualization techniques.
+This repository contains my solution to the midterm project for the SMM635 Data Visualization course at Bayes Business School, City, University of London.
 
-Storytelling:
-Present your findings as a clear and engaging data-driven narrative, supporting your analysis with effective visuals.
+## Project Overview
 
-Report & Presentation:
-Submit your work as an organized Jupyter Notebook (or RMarkdown/Quarto), containing both the code and the explanation of your approach, results, and interpretations.
+The goal of this project is to explore a provided dataset and present data-driven insights through effective visualizations and clear storytelling.
 
-Key requirements:
+**Main tasks:**
+- Select and analyze relevant variables from the dataset.
+- Use appropriate data visualization techniques to highlight trends, distributions, and relationships.
+- Interpret and explain your findings, discussing both insights and potential limitations.
+- Present your work in a readable, well-structured, and reproducible notebook (Jupyter Notebook, RMarkdown, or Quarto).
 
-Select relevant variables and design visualizations that best illustrate trends, distributions, and relationships in the data.
+## Submission Requirements
 
-Interpret the visualizations, highlighting key findings and potential limitations.
+- Submit your code and explanations together in a single notebook file.
+- Ensure your report tells a coherent, data-driven story supported by your visualizations.
+- Follow best practices in coding, documentation, and visualization design.
 
-Ensure your notebook/report is readable, reproducible, and well-structured.
+For full details and instructions, see the official project description:  
+[Midterm Project Description (tmp_description.pdf)](https://github.com/simoneSantoni/data-viz-smm635/blob/master/midTermProject/tmp_description.pdf)
 
-For the full project details, see the official PDF:
-For full details, refer to the [official PDF project description](https://github.com/simoneSantoni/data-viz-smm635/blob/master/midTermProject/tmp_description.pdf).
+---
+
